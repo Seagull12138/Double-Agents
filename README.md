@@ -6,9 +6,9 @@ Student ID:
 UTS email:
 
 Member 2
-Name:
-Student ID:
-UTS email:
+Name: Zequn Zhang
+Student ID: 13060520
+UTS email: Zequn.Zhang@student.uts.edu.au
 
 Member 3
 Name:
